@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE9EC093-3B6C-40F2-BAC0-CF715206A157}|ConcursoWeb\\ConcursoWeb.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tpproyectoconcursoweb\\concursoweb\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EE9EC093-3B6C-40F2-BAC0-CF715206A157}|ConcursoWeb\\ConcursoWeb.csproj|solutionrelative:concursoweb\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9EC093-3B6C-40F2-BAC0-CF715206A157}|ConcursoWeb\\ConcursoWeb.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tpproyectoconcursoweb\\concursoweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE9EC093-3B6C-40F2-BAC0-CF715206A157}|ConcursoWeb\\ConcursoWeb.csproj|solutionrelative:concursoweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tpproyectoconcursoweb\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tpproyectoconcursoweb\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tpproyectoconcursoweb\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|c:\\users\\marin\\documents\\utn\\pr3\\github\\tpproyectoconcursoweb\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AF5097-3440-44F9-A5CB-1DC0B6B96EF3}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\ConcursoWeb\\Default.aspx",
+              "RelativeDocumentMoniker": "ConcursoWeb\\Default.aspx",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\ConcursoWeb\\Default.aspx",
+              "RelativeToolTip": "ConcursoWeb\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-29T02:24:43.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MiMaster.Master",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\ConcursoWeb\\MiMaster.Master",
+              "RelativeDocumentMoniker": "ConcursoWeb\\MiMaster.Master",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\ConcursoWeb\\MiMaster.Master",
+              "RelativeToolTip": "ConcursoWeb\\MiMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-29T02:24:20.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\Dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "Dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\Dominio\\Imagen.cs",
+              "RelativeToolTip": "Dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T02:20:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\Dominio\\Categoria.cs",
               "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
@@ -39,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Marca.cs",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\Dominio\\Marca.cs",
               "RelativeDocumentMoniker": "Dominio\\Marca.cs",
@@ -52,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\marin\\Documents\\utn\\PR3\\Github\\TpProyectoConcursoWeb\\Dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
@@ -60,8 +111,7 @@
               "RelativeToolTip": "Dominio\\Articulo.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T00:48:30.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T00:48:30.769Z"
             }
           ]
         }
